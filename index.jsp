@@ -5,7 +5,7 @@
     <title>Username Form</title>
 </head>
 <body>
-    <h1>Enter your username:(be happy dont worry!!)</h1>
+    <h1>Enter your username:(be happy dont worry!! live demo)</h1>
     <form action="<%= request.getContextPath() %>/index.jsp" method="post">
         <input type="text" name="username" placeholder="Enter your username" required>
         <br><br>
